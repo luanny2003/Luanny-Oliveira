@@ -14,7 +14,7 @@
   * CSS
   * JavaScript
   * React
-
+    
 # 🎯 Objetivos
   * Conseguir minha primeira vaga como designer/dev
   * Criar projetos reais para portfólio
