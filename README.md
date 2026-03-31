@@ -12,7 +12,7 @@
   * HTML
   * CSS
   * JavaScript
-  * React
+  * React 
 
 # 🎯 Objetivos
   * Conseguir minha primeira vaga como designer/dev
