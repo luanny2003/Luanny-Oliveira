@@ -5,14 +5,15 @@
 🚀 Buscando minha primeira oportunidade
 
 # ✨ Sobre mim
-  Sou apaixonada por criar interfaces bonitas, intuitivas e funcionais.
-  Atualmente estou estudando design e desenvolvimento para me tornar uma profissional completa em UI/UX + Front-end.
+  Sou estudante de UI/UX Design com foco em desenvolvimento Front-end, dedicada à criação de interfaces modernas, intuitivas e funcionais. Busco unir design e        tecnologia para desenvolver experiências digitais de qualidade.
+  Possuo conhecimentos em HTML, CSS e JavaScript, e estou em constante evolução nos estudos de React e boas práticas de desenvolvimento. Atualmente, estou em busca   da minha primeira oportunidade na área de tecnologia, onde eu possa aplicar minhas habilidades e crescer profissionalmente.
+
 
 # 🛠️ Tecnologias que estou aprendendo
   * HTML
   * CSS
   * JavaScript
-  * React 
+  * R
 
 # 🎯 Objetivos
   * Conseguir minha primeira vaga como designer/dev
